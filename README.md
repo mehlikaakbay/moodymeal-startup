@@ -11,8 +11,11 @@ Led product strategy, UX design, and business model creation.
 ## Pitch Deck  
 [ View PDF](pitch-deck/moodymeal_pitch.pdf)
 
-## Figma Prototype  
+## Figma Web Prototype  
 [ View Interactive Demo](https://www.figma.com/proto/Mwxahq3OIDGtESGXGCfuPQ/MoodyMeal-Website-Prototype?node-id=17-40&t=BsoTemTv7SESPMk4-1&starting-point-node-id=17%3A40)
+
+## Canva App Prototype  
+[View App Demo](/prototype/Prototype.pdf)
 
 ## Features
 - Mood-based meal recommendations  
