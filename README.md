@@ -25,14 +25,6 @@ Led product strategy, UX design, and business model creation.
 - Break-even by Month 10  
 - Multi-channel monetization: premium, partnerships, and referrals
 
-## Project Structure
-moodymeal-startup/
-├── README.md                    
-├── pitch-deck/
-│   └── moodymeal_pitch_canva.pdf 
-├── prototype/
-│   └── figma_link.txt 
-
 ---
 ## About
 
