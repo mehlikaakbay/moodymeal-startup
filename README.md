@@ -27,11 +27,11 @@ Led product strategy, UX design, and business model creation.
 
 ## Project Structure
 moodymeal-startup/
-├── README.md
+├── README.md                    
 ├── pitch-deck/
-│   └── moodymeal_pitch_canva.pdf
+│   └── moodymeal_pitch_canva.pdf 
 ├── prototype/
-│   └── figma_link.txt
+│   └── figma_link.txt 
 
 ---
 ## About
