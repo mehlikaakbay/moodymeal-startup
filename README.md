@@ -9,10 +9,10 @@ Mehlika Rana Akbay – Co-founder & Chief Product Officer (CPO)
 Led product strategy, UX design, and business model creation.
 
 ## Pitch Deck  
-[📥 View PDF](./pitch-deck/moodymeal_pitch_canva.pdf)
+[ View PDF](./pitch-deck/moodymeal_pitch_canva.pdf)
 
 ## Figma Prototype  
-[🔗 View Interactive Demo](https://www.figma.com/proto/Mwxahq3OIDGtESGXGCfuPQ/MoodyMeal-Website-Prototype?node-id=17-40&t=BsoTemTv7SESPMk4-1&starting-point-node-id=17%3A40)
+[ View Interactive Demo](https://www.figma.com/proto/Mwxahq3OIDGtESGXGCfuPQ/MoodyMeal-Website-Prototype?node-id=17-40&t=BsoTemTv7SESPMk4-1&starting-point-node-id=17%3A40)
 
 ## Features
 - Mood-based meal recommendations  
@@ -25,18 +25,18 @@ Led product strategy, UX design, and business model creation.
 - Break-even by Month 10  
 - Multi-channel monetization: premium, partnerships, and referrals
 
-## Folder Structure
+## Project Structure
 moodymeal-startup/
+├── README.md
 ├── pitch-deck/
 │   └── moodymeal_pitch_canva.pdf
 ├── prototype/
 │   └── figma_link.txt
-└── README.md
----
 
+---
 ## About
 
 Created as part of the Management Basics course  
 University of Europe for Applied Sciences  
 14469 Potsdam, Germany  
-[www.moodymeal.com](http://www.moodymeal.com) | hello@moodymeal.com
+mehlika.akbay@ue-germany.de
